@@ -1,0 +1,7 @@
+*.session
+*.session-journal
+.env
+__pycache__/
+*.pyc
+*.log
+selfbot_state.json
