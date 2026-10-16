@@ -1,2 +1,4 @@
 telethon>=1.36
 jdatetime>=4.0
+# yt-dlp is used as a command-line tool for YouTube downloads:
+# pip install yt-dlp  (or: sudo apt install yt-dlp)
